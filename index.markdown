@@ -16,11 +16,11 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<!-- Intro -->
 	<section id="intro" class="wrapper style1 fullscreen fade-up">
 		<div class="inner">
-			<h1>Hyperspace</h1>
-			<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-			and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+			<h1>Christopher E. Kime</h1>
+			<p>JActa Non Verba. Client Programmer, Korea,<br />
+			you can check my <a href="https://docs.google.com/presentation/d/13J-MnwrgPgfU2jwf6v93c9R0agV_jxGihZqSIJ-F_E0/edit?usp=sharing">Portfolio</a> and freely check the <a href="https://hashinkim.notion.site/Portfolio-11b1ba272aac803cb508c7735798df54?pvs=4">Notion</a>.</p>
 			<ul class="actions">
-				<li><a href="#one" class="button scrolly">Learn more</a></li>
+				<li><a href="#one" class="button scrolly">Read more</a></li>
 			</ul>
 		</div>
 	</section>
@@ -33,7 +33,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 					<h2>Sed ipsum dolor</h2>
 					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 					<ul class="actions">
-						<li><a href="generic.html" class="button">Learn more</a></li>
+						<li><a href="generic.html" class="button">Read more</a></li>
 					</ul>
 				</div>
 			</div>
@@ -45,7 +45,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 					<h2>Feugiat consequat</h2>
 					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 					<ul class="actions">
-						<li><a href="generic.html" class="button">Learn more</a></li>
+						<li><a href="generic.html" class="button">Read more</a></li>
 					</ul>
 				</div>
 			</div>
@@ -57,7 +57,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 					<h2>Ultricies aliquam</h2>
 					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 					<ul class="actions">
-						<li><a href="generic.html" class="button">Learn more</a></li>
+						<li><a href="generic.html" class="button">Read more</a></li>
 					</ul>
 				</div>
 			</div>
