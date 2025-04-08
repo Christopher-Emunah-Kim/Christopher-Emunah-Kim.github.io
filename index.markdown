@@ -16,7 +16,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<!-- Intro -->
 	<section id="intro" class="wrapper style1 fullscreen fade-up">
 		<div class="inner">
-			<h1>Christopher E. Kime</h1>
+			<h1>Christopher E. Kim</h1>
 			<p>JActa Non Verba. Client Programmer, Korea,<br />
 			you can check my <a href="https://docs.google.com/presentation/d/13J-MnwrgPgfU2jwf6v93c9R0agV_jxGihZqSIJ-F_E0/edit?usp=sharing">Portfolio</a> and freely check the <a href="https://hashinkim.notion.site/Portfolio-11b1ba272aac803cb508c7735798df54?pvs=4">Notion</a>.</p>
 			<ul class="actions">
