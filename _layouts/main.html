@@ -10,7 +10,11 @@
 	</head>
     <body class="is-preload landing">
 		<div id="page-wrapper">
-            {% include nav.html %}
+            {% if page.url == "/" %}
+                {% include nav.html %}
+                {% else %}
+                {% include nav_sub.html %}
+            {% endif %}
             {% if page.post_layout %}
             <div id="main" class="wrapper style1">
                 <div class="container">
@@ -19,7 +23,18 @@
                         <!--<p>{{page.date | date: "%Y-%m-%d"}}</p>-->
                     </header>
             {% endif %}
-			{{content}}
+            {% if page.url == "/" %}
+            {{content}}
+            {% else %}
+            <div id="wrapper">
+                <section id="main" class="wrapper">
+                    <div class="inner">
+                        {{content}}
+                    </div>
+                </section>
+            </div>
+            {% endif %}
+
             {% if page.post_layout %}
                 </div>
             </div>
@@ -30,7 +45,6 @@
 		<!-- Scripts -->
         <script src="/assets/js/jquery.min.js"></script>
         <script src="/assets/js/jquery.scrolly.min.js"></script>
-        <script src="/assets/js/jquery.dropotron.min.js"></script>
         <script src="/assets/js/jquery.scrollex.min.js"></script>
         <script src="/assets/js/browser.min.js"></script>
         <script src="/assets/js/breakpoints.min.js"></script>

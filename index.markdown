@@ -5,7 +5,12 @@
 layout: main
 title : main
 ---
+<!--
+<h2>{{site.user_intro}}</h2>
 
+site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있음음
+
+-->
 <!-- Wrapper -->
 <div id="wrapper">
 	<!-- Intro -->
@@ -159,6 +164,7 @@ title : main
 		</div>
 	</section>
     <!-- Four -->
+	<!-- 폴더 이름이랑 markdown파일이 일치해야 합니다 -->
 	<section id="four" class="wrapper style1 fade-up">
 		<div class="inner">
 			<h2>What we do</h2>
@@ -168,37 +174,37 @@ title : main
 					<span class="icon solid major fa-code"></span>
 					<h3>Lorem ipsum amet</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-                    <a href="board" class="button">Default</a>
+                    <a href="board_1" class="button">Default</a>
                 </section>
 				<section>
 					<span class="icon solid major fa-lock"></span>
 					<h3>Aliquam sed nullam</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-                    <a href="board" class="button">Default</a>
+                    <a href="board_2" class="button">Default</a>
 				</section>
 				<section>
 					<span class="icon solid major fa-cog"></span>
 					<h3>Sed erat ullam corper</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-                    <a href="board" class="button">Default</a>
+                    <a href="board_3" class="button">Default</a>
 				</section>
 				<section>
 					<span class="icon solid major fa-desktop"></span>
 					<h3>Veroeros quis lorem</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-                    <a href="board" class="button">Default</a>
+                    <a href="board_4" class="button">Default</a>
 				</section>
 				<section>
 					<span class="icon solid major fa-link"></span>
 					<h3>Urna quis bibendum</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-                    <a href="board" class="button">Default</a>
+                    <a href="board_5" class="button">Default</a>
 				</section>
 				<section>
 					<span class="icon major fa-gem"></span>
 					<h3>Aliquam urna dapibus</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
-                    <a href="board" class="button">Default</a>
+                    <a href="board_6" class="button">Default</a>
 				</section>
 			</div>
 			<ul class="actions">
