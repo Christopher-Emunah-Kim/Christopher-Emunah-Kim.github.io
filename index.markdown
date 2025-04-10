@@ -158,7 +158,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<section id="four" class="wrapper style1 fade-up">
 		<div class="inner">
 			<h2>Get in touch</h2>
-			<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+			<p>For basic contact, please use email. If you would like, please use Instagram DM.</p>
 			<div class="split style1">
 				<section>
 					<form method="post" action="#">
@@ -177,7 +177,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 							</div>
 						</div>
 						<ul class="actions">
-							<li><a href="" class="button submit">Send Message</a></li>
+							<li><a href="https://christopher-emunah-kim.github.io/" class="button submit">Send Message</a></li>
 						</ul>
 					</form>
 				</section>
@@ -185,17 +185,17 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 					<ul class="contact">
 						<li>
 							<h3>Address</h3>
-							<span>12345 Somewhere Road #654<br />
-							Nashville, TN 00000-0000<br />
-							USA</span>
+							<span>Seong-Nam Dong, Jung-Won-Ku<br />
+							Seong-Nam, Kyeong-Ki Do<br />
+							S.Korea</span>
 						</li>
 						<li>
 							<h3>Email</h3>
-							<a href="#">user@untitled.tld</a>
+							<a href="#">hashin.chris@gmail.com</a>
 						</li>
 						<li>
-							<h3>Phone</h3>
-							<span>(000) 000-0000</span>
+							<h3>Instagram</h3>
+							<a href="https://www.instagram.com/_shin_eee/">Send Direct Message</a>
 						</li>
 						<li>
 							<h3>Social</h3>
