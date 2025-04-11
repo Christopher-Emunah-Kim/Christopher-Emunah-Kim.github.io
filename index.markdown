@@ -17,7 +17,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<section id="intro" class="wrapper style1 fullscreen fade-up">
 		<div class="inner">
 			<h1>Christopher E. Kim</h1>
-			<p>JActa Non Verba. Client Programmer, Korea,<br />
+			<p>Acta Non Verba. Client Programmer, Korea,<br />
 			you can check my <a href="https://docs.google.com/presentation/d/13J-MnwrgPgfU2jwf6v93c9R0agV_jxGihZqSIJ-F_E0/edit?usp=sharing">Portfolio</a> and freely check the <a href="https://hashinkim.notion.site/Portfolio-11b1ba272aac803cb508c7735798df54?pvs=4">Notion</a>.</p>
 			<ul class="actions">
 				<li><a href="#one" class="button scrolly">Read more</a></li>
@@ -30,8 +30,8 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 			<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 			<div class="content">
 				<div class="inner">
-					<h2>Sed ipsum dolor</h2>
-					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+					<h2>Unreal/Unity Programming</h2>
+					<p>C++, C# 언어 기반의 클래스, 객체 설계와 OOP 기반 팀 협업 프로젝트를 다수 진행하였습니다. </p>
 					<ul class="actions">
 						<li><a href="generic.html" class="button">Read more</a></li>
 					</ul>
@@ -66,8 +66,8 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<!-- Two -->
 	<section id="two" class="wrapper style3 fade-up">
 		<div class="inner">
-			<h2>What we do</h2>
-			<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+			<h2>Skills</h2>
+			<p> 보유 스킬입니다. </p>
 			<div class="features">
 				<section>
 					<span class="icon solid major fa-code"></span>
@@ -109,8 +109,8 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<!-- 폴더 이름이랑 markdown파일이 일치해야 합니다 -->
 	<section id="three" class="wrapper style1 fade-up">
 		<div class="inner">
-			<h2>What we do</h2>
-			<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+			<h2>Project Portfolio</h2>
+			<p>Project 진행 이력과 기술 문서입니다. 보드 내에서 해당 프로젝트의 git과 notion문서에 접근이 가능합니다.</p>
 			<div class="features">
 				<section>
 					<span class="icon solid major fa-code"></span>
