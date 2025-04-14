@@ -19,7 +19,7 @@ title : post
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item One</td>
+				<td><a href="/board_1" class="active">Item One</a></td>
 				<td>Ante turpis integer aliquet porttitor.</td>
 				<td>29.99</td>
 			</tr>
