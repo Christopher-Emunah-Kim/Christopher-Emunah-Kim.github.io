@@ -20,7 +20,7 @@ title : post
 		<tbody>
 			<tr>
 				<td><a href="/board_1" class="active">Item One</a></td>
-				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>Ante turpis dddfdfdfdfinteger aliquet porttitor.</td>
 				<td>29.99</td>
 			</tr>
 			<tr>
