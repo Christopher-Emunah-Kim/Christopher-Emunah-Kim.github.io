@@ -114,7 +114,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 			<div class="features">
 				<section>
 					<span class="icon solid major fa-code"></span>
-					<h3>Lorem ipsum amet</h3>
+					<h3>Yimir</h3>
 					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
                     <a href="board_1" class="button">Default</a>
                 </section>
@@ -144,8 +144,8 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 				</section>
 				<section>
 					<span class="icon major fa-gem"></span>
-					<h3>Aliquam urna dapibus</h3>
-					<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+					<h3>Unreal Study Projects</h3>
+					<p>Metaverse Academy </br> 2024.06 - 2024.12 </p>
                     <a href="board_6" class="button">Default</a>
 				</section>
 			</div>
@@ -158,7 +158,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 	<section id="four" class="wrapper style1 fade-up">
 		<div class="inner">
 			<h2>Get in touch</h2>
-			<p>For basic contact, please use email. If you would like, please use Instagram DM.</p>
+			<p>For basic contact, please use email. If you would like, please use Instagram DM. It is faster :D </p>
 			<div class="split style1">
 				<section>
 					<form method="post" action="#">
@@ -185,8 +185,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 					<ul class="contact">
 						<li>
 							<h3>Address</h3>
-							<span>Seong-Nam Dong, Jung-Won-Ku<br />
-							Seong-Nam, Kyeong-Ki Do<br />
+							<span>Seong-Nam City, Kyeong-Ki Do<br />
 							S.Korea</span>
 						</li>
 						<li>
@@ -200,11 +199,11 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 						<li>
 							<h3>Social</h3>
 							<ul class="icons">
-								<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-thread"><span class="label">Thread</span></a></li>
+								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="https://github.com/Christopher-Emunah-Kim" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://www.linkedin.com/in/kim-hashin/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 						</li>
 					</ul>
