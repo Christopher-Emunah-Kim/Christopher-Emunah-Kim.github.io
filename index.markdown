@@ -145,7 +145,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 				<section>
 					<span class="icon major fa-gem"></span>
 					<h3>Unreal Study Projects</h3>
-					<p>Metaverse Academy </br> 2024.06 - 2024.12 </p>
+					<p>Metaverse Academy <br /> 2024.06 - 2024.12 </p>
                     <a href="board_6" class="button">Default</a>
 				</section>
 			</div>
@@ -199,7 +199,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 						<li>
 							<h3>Social</h3>
 							<ul class="icons">
-								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-thread"><span class="label">Thread</span></a></li>
+								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-twitter"><span class="label">Thread</span></a></li>
 								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 								<li><a href="https://github.com/Christopher-Emunah-Kim" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								<li><a href="https://www.instagram.com/_shin_eee/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
