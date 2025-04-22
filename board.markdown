@@ -24,22 +24,27 @@ title : post
 				<td>29.99</td>
 			</tr>
 			<tr>
-				<td>Item Two</td>
+				<td><a href="/board_2" class="active">Item Two</a></td>
 				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td>29.99</td>
 			</tr>
 			<tr>
-				<td>Item Three</td>
+				<td><a href="/board_3" class="active">Item Three</a></td>
 				<td> Morbi faucibus arcu accumsan lorem.</td>
 				<td>29.99</td>
 			</tr>
 			<tr>
-				<td>Item Four</td>
+				<td><a href="/board_4" class="active">Item Four</a></td>
 				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
+				<td>29.99</td>
 			</tr>
 			<tr>
-				<td>Item Five</td>
+				<td><a href="/board_5" class="active">Item Five</a></td>
+				<td>Ante turpis integer aliquet porttitor.</td>
+				<td>29.99</td>
+			</tr>
+			<tr>
+				<td><a href="/board_6" class="active">Item Six</a></td>
 				<td>Ante turpis integer aliquet porttitor.</td>
 				<td>29.99</td>
 			</tr>
