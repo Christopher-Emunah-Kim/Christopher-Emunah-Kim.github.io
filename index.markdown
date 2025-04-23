@@ -54,7 +54,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 			<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
 			<div class="content">
 				<div class="inner">
-					<h2>Ultricies aliquam</h2>
+					<h2>I Dont' know</h2>
 					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 					<ul class="actions">
 						<li><a href="generic.html" class="button">Read more</a></li>
