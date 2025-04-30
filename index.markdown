@@ -189,7 +189,7 @@ site. 정보에 대하여 _config.yml 파일에서 가져와 사용할 수 있�
 							S.Korea</span>
 						</li>
 						<li>
-							<h3>Email</h3>
+							<h3>E-mail</h3>
 							<a href="#">hashin.chris@gmail.com</a>
 						</li>
 						<li>

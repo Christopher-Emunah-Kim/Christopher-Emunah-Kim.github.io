@@ -37,7 +37,7 @@ title : post
 				<td><a href="/board_4" class="active">Item Four</a></td>
 				<td>Vitae integer tempus condimentum.</td>
 				<td>29.99</td>
-			</tr>
+			</tr>s
 			<tr>
 				<td><a href="/board_5" class="active">Item Five</a></td>
 				<td>Ante turpis integer aliquet porttitor.</td>
